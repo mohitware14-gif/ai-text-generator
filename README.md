@@ -31,3 +31,7 @@ Technology Used      : Python, Transformers (GPT-2), Google Colab
 This project demonstrates how AI can be used to generate meaningful and context-aware text. 
 It serves as a foundation for building more advanced AI applications such as chatbots, content generators, 
 and intelligent assistants.
+
+## View Notebook
+Open in Colab:
+https://colab.research.google.com/github/mohitware14-gif/ai-text-generator/blob/main/yourfile.ipynb
